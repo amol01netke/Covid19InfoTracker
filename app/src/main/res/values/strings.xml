@@ -1,0 +1,102 @@
+<resources>
+    <string-array name="array_parameters">
+        <item>Total Infected</item>
+        <item>Total Deaths</item>
+        <item>Total Recovered</item>
+    </string-array>
+
+    <string-array name="array_regions">
+        <item>India</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala***</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli and Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Jammu and Kashmir</item>
+        <item>Puducherry</item>
+    </string-array>
+
+    <string-array name="array_regions_1">
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala***</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli and Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Jammu and Kashmir</item>
+        <item>Puducherry</item>
+    </string-array>
+
+    <string name="app_name">Covid-19 Info Tracker</string>
+    <string name="select_a_region">Select a region</string>
+    <string name="track_info">Track Info</string>
+    <string name="total_infected">Total Infected</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="compare_two_regions">Compare two regions</string>
+    <string name="compare_info">Compare Info</string>
+    <string name="select_a_parameter">Select a parameter</string>
+    <string name="vaccine_centres_near_me">Vaccine Centres near me</string>
+    <string name="book_a_vaccination_slot">Book a Vaccination slot</string>
+    <string name="get_helpline_no">Get Helpline no.</string>
+    <string name="helpdesk">Helpdesk</string>
+    <string name="get_vaccinated">Get Vaccinated</string>
+    <string name="mygov_corona_helpdesk">MyGov Corona Helpdesk</string>
+    </resources>

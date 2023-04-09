@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/menu_compare"
+        android:icon="@drawable/ic_bar_chart"
+        android:title="Compare" />
+
+    <item
+        android:id="@+id/menu_help"
+        android:icon="@drawable/ic_help"
+        android:title="Help" />
+
+</menu>

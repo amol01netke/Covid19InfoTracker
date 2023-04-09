@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70253392789",
+    "project_id": "covid-19-info-tracker-cddce",
+    "storage_bucket": "covid-19-info-tracker-cddce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70253392789:android:e22796f6166f162be77c9c",
+        "android_client_info": {
+          "package_name": "com.example.covid_19infotracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70253392789-1ks8601v92787o7m4epu78hq07t9nqpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWcN37A7MeAm5MycwgTqaxAeQPVi-_EAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70253392789-1ks8601v92787o7m4epu78hq07t9nqpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
